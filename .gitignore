@@ -1,0 +1,9 @@
+.vs/
+out/
+build/
+CMakeUserPresets.json
+*.exe
+*.obj
+*.pdb
+*.ilk
+~$*.docx
